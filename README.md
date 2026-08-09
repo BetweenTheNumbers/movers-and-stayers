@@ -77,9 +77,7 @@ Draft, biographical, and birthplace data provided by **The Baseball Cube**, whic
 displays these records in a useful public format. A shout-out to TBC for the
 service. Underlying records are **not redistributed** in this repository.
 
-MLB career statistics and Wins Above Replacement (fWAR) provided by
-**FanGraphs**, used under fair use for this non-commercial research project, with
-thanks.
+MLB career statistics and WAR (fWAR) provided by FanGraphs, with thanks. Their data is not redistributed here.
 
 Geocoding via the **Nominatim** API on **OpenStreetMap** data. Location data
 © OpenStreetMap contributors, ODbL 1.0.

@@ -1,0 +1,36 @@
+# ---- DATA: never commit (licensed, not redistributable) ----
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# geocode + other caches (contain location data derived from sources)
+*cache*.json
+geocode_cache*.json
+*.pkl
+*.parquet
+
+# analysis outputs / derived player-level files
+v3_analysis*.csv
+*_deduped.csv
+*_split.csv
+*_collisions.csv
+hs_pathway_split.csv
+figures/
+outputs/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

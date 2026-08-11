@@ -2,8 +2,8 @@
 
 Do MLB draftees who moved between where they were born and where they went to
 high school reach the majors at higher rates than those who stayed in their
-hometown? This project says yes, and argues the reason is **visibility**, not
-talent: moving proxies exposure to more scouts.
+hometown? This project says yes, and argues the reason is **visibility**, not just
+talent.
 
 Analysis covers MLB draftees drafted out of high school, 1996–2019
 (n = 11,921 players with a computable birth-to-high-school distance).
@@ -90,7 +90,7 @@ redistribution, so no raw data, cached geocodes, or derived player-level files
 are committed here. Anyone wishing to reproduce the analysis should obtain the
 data directly from those providers.
 
-- The Baseball Cube: https://www.thebaseballcube.com
+- The Baseball Cube: [https://www.thebaseballcube.com](https://www.thebaseballcube.com/content/about/data.asp#draft)
 - FanGraphs: https://www.fangraphs.com
 - Nominatim: https://nominatim.org · OpenStreetMap: https://www.openstreetmap.org
 

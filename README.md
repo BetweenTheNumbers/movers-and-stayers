@@ -82,7 +82,7 @@ MLB career statistics and WAR (fWAR) provided by FanGraphs, with thanks. Their d
 Geocoding via the **Nominatim** API on **OpenStreetMap** data. Location data
 © OpenStreetMap contributors, ODbL 1.0.
 
-## Data not included (and why)
+## Data not included
 
 This repository contains **code only**. The draft/bio data (The Baseball Cube)
 and the career statistics (FanGraphs) are used under terms that do not permit

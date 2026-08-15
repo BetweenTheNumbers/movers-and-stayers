@@ -8,6 +8,8 @@ talent.
 Analysis covers MLB draftees drafted out of high school, 1996–2019
 (n = 11,921 players with a computable birth-to-high-school distance). This time period begins with the introduction of the 29th and 30th clubs into the Rule IV Draft, and goes through the last Draft before the 2020 rule changes.
 
+![MLB Reach Percentage by Distance Bucket](figures/fig1_distance_doseresponse.png)
+
 ## Headline findings
 
 - **Movers reach MLB more often.** Players born more than five miles from their

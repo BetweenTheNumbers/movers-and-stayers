@@ -15,7 +15,7 @@ Analysis covers MLB draftees drafted out of high school, 1996–2019
 - **Movers reach MLB more often.** Players born more than five miles from their
   high-school city reach the majors **21.6%** of the time versus **12.5%** for
   same-hometown players (odds ratio 1.69 controlling for draft round, 1.93
-  unadjusted; p ≈ 7e-23). Movers are also drafted about seven rounds earlier.
+  unadjusted; p ≈ 7e-23). Movers are also drafted about seven rounds earlier. (Note: above figure separates same-city from the 0-5 mile group; combining yields 12.5% MLB rate)
 
 - **The cutoff is not cherry-picked.** The advantage holds at every distance
   threshold tested, from 1 mile to 100 miles (odds ratios 1.56–1.69).

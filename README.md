@@ -10,6 +10,8 @@ Analysis covers MLB draftees drafted out of high school, 1996–2019
 
 ![MLB Reach Percentage by Distance Bucket](figures/fig1_distance_doseresponse.png)
 
+![Avg Career WAR by HS Metro Area](figures/fig14_heatmap_war_quality.png)
+
 ## Headline findings
 
 - **Movers reach MLB more often.** Players born more than five miles from their
